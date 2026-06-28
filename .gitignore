@@ -1,0 +1,18 @@
+.env
+backend/.env
+frontend/.env
+/node_modules
+frontend/package-lock.json
+frontend/package-lock 2.json
+backend/__pycache__
+backend/data/__pycache__
+backend/models/__pycache__
+backend/prompts/__pycache__
+backend/routers/__pycache__
+backend/services/__pycache__
+backend/venv
+terpai-cookies.json
+terpai-session.json
+.terpai-profile/
+.claude/
+.codex/
